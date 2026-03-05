@@ -24,3 +24,7 @@ Tools: Git, GitHub, Linux
 
 * Advanced Backend
 * Open Source Contribution
+<p align="center">
+<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+</p>
