@@ -1,7 +1,7 @@
 # Hi 👋 I'm Satyam
 <p align="center">
-<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">rsatyam556@gmail.com</a>
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+<a href="rsatyam556@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://github.com/tech-ninja-108"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
 </p>
 
 
