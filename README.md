@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Satyam
 
-<!--
-**tech-ninja-108/tech-ninja-108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+* Full Stack Developer
+* Open Source Learner
+* Fedora User
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+Frontend: HTML, CSS, JavaScript
+Backend: Node.js, Express.js, Python
+Database: MongoDB, MySQL
+Tools: Git, GitHub, Linux
+
+## 📌 Projects
+
+* Clinic Management System
+* Tic Tac Toe
+* To-do App
+* Backend APIs
+
+## 🌱 Currently Learning
+
+* Advanced Backend
+* Open Source Contribution
