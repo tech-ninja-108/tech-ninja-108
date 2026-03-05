@@ -1,6 +1,11 @@
-# Hi 👋 I'm Satyam
 <p align="center">
-<a href="mailto:rsatyam556@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+<h1 align="center">Hi 👋 I'm Satyam</h1>
+</p>
+
+<p align="center">
+<a href="mailto:rsatyam556@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+</a>
 <a href="https://github.com/tech-ninja-108"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
 </p>
 
